@@ -6,7 +6,7 @@ var gladosLines = ["Well done. Here come the test results: 'You are a horrible p
   "Killing you and giving you advice aren't mutually exclusive. The rocket really is the way to go.",
   "Any feelings you think it has for you are simply byproducts of your sad, empty life.",
   "That jumpsuit you're wearing looks stupid. That's not me talking, it's right here on your file.",
-  "Because despite your violent behavior, the only thing you've managed to break so far is my heart.",
+  "Despite your violent behavior, the only thing you've managed to break so far is my heart.",
   "It's been fun. Don't come back.",
   "So. Was there anything you wanted to apologize to ME for?",
   "In dangerous testing environments, the Enrichment Center promises to always provide useful advice. For instance, the floor here will kill you. Try to avoid it",
